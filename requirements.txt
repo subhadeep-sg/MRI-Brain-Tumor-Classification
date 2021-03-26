@@ -1,0 +1,5 @@
+tensorflow >= 2.0.0
+pathlib == 1.0.1
+Pillow >= 8.0.0
+sklearn == 0.24.0
+opencv-python == 4.4.0.46
